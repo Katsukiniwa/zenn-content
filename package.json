@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Katsukiniwa/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.159"
+    "zenn-cli": "^0.4.1"
   }
 }
